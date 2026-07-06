@@ -1,6 +1,6 @@
 # Maven-Concepts
 
-Small Java examples showing core Maven concepts: project structure, lifecycle, dependencies, plugins, and profiles.
+Small Java example showing core Maven concepts: project structure, lifecycle, dependencies, plugins, and profiles.
 
 Prerequisites
 - Java JDK 8+
@@ -14,8 +14,3 @@ Quick commands
 Structure
 - Each module/example demonstrates a specific Maven feature (pom, plugins, profiles, dependency scopes).
 
-Contributing
-- PRs and small improvements welcome — keep examples simple and well-documented.
-
-Author
-- mi-vaishnavi
